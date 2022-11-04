@@ -60,7 +60,10 @@ html {
 }
 
 .wrapper {
-  background-color: #3da11f;
+  background-image: url("../img/bg.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
 }
